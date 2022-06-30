@@ -30,6 +30,9 @@ Linguist Steven Pinker takes an analytical approach to writing in this style gui
 ### 'Technical Blogging' by Antonio Cangiano
 This book is, as you may have guessed from the title, specific to technical blogging. "Successful people often get recognition by teaching what they know. Blogging is a reliable path to do that, while gaining influence in the process." Unlike most of the others here, it doesn't focus as much on writing well, but more about how to set up a technical blog, how to promote it and how to find time to write.
 
+### 'Docs for Developers' by Jared Bhatti et al.
+This book by a diverse group of accomplished technical writers sheds light on fundamental concepts of technical writing, especially in the software development world. It is important for technical writers who are looking to create succint developer documentation including API docs, user guides, tutorials, friction logs, READMEs, etc.
+
 ## Articles
 
 ### 'Writing well' by Julian Shapiro
